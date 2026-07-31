@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+requests
+librosa
+scikit-learn
+matplotlib
+torch
+sentence-transformers
+chromadb
